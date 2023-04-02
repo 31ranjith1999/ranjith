@@ -7,7 +7,7 @@ public class WelcomeScreen {
 	System.out.println("-------------------------------------------");	
 	System.out.println("-----------Application Details-------------");
 	System.out.println("--------------LockedMe.com-----------------");
-	System.out.println("------Developed by Sandeep Kumar Pamu------");
+	System.out.println("------Developed by Ranjith Kumar------");
 	System.out.println("-------------------------------------------");
 	System.out.println("Feature are listed below");
 	
